@@ -1,6 +1,6 @@
 ---
-title: "CSCI4210: Assignment 1"
-author: "Kaathihan Luxmachandran (100704762)"
+title: "Data-Manipulation-Using-R"
+author: "Kaathihan Luxmachandran"
 output: html_document
 date: "2023-04-02"
 ---
