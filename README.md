@@ -1,4 +1,4 @@
-# Data Manipulation Using R
+# ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) Data Manipulation Using R
 
 ![download (1)](https://github.com/user-attachments/assets/2f970765-0488-4c20-9417-930e0735b7ce)
 
